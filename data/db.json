@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "Yesterday Party!",
+      "content": "spent 2000$ on chips and dips!",
+      "catagory": "money",
+      "id": 2
+    },
+    {
+      "title": "get hired",
+      "content": "yaaaaay",
+      "catagory": "work",
+      "id": 3
+    },
+    {
+      "title": "qwe",
+      "content": "reerrer",
+      "catagory": "money",
+      "id": 4
+    }
+  ]
+}
